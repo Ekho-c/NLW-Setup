@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear hábitos.
 
+- [Visite o projeto online](https://ekho-c.github.io/NLW-Setup/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/BB5ETltmg1wr9lvVxh2mb0/Habits-(e)-(Community)?node-id=6%3A910&t=0Gc793wo65Q68qvn-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
